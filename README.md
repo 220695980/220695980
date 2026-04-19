@@ -1,4 +1,4 @@
-# JUNIOR BUSINESS ANALYST  
+# JUNIOR SOFTWARE ANALYST  
 
 ## 🧰 Tools & Technologies  
 
