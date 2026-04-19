@@ -1,4 +1,4 @@
-# JUNIOR SOFTWARE ANALYST  
+# SOFTWARE ANALYST  
 
 ## 🧰 Tools & Technologies  
 
