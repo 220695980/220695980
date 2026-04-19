@@ -113,8 +113,7 @@ The structured analysis approach focuses on evaluating organisations across crit
 ## 🎓 CERTIFICATION 
 
 <p align="center">  
-  <img src="certificates/python.png" alt="Python Certificate" width="200px" style="margin: 25px;"/>  
-  <img src="certificates/azure.png" alt="TUT Certificate" width="200px" style="margin: 15px;"/>   
+  <img src="certificates/python.png" alt="Python Certificate" width="200px" style="margin: 25px;"/> 
 
 </p>
 
